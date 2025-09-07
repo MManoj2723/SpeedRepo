@@ -1,1 +1,1 @@
-This Page Tells About The REpository
+This Page Tells About The Repository
