@@ -28,5 +28,6 @@ public void test(){
     //initially working on something
 }
 
+String name = "java";
 
 }
