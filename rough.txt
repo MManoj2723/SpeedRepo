@@ -9,4 +9,6 @@ public void m1(){
         sout("How are you");
 }
 
+String name ="java";
+
 }
