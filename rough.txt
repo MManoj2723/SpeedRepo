@@ -10,7 +10,10 @@ public void m1(){
 }
 
     int double =200d;
+
     double sal = 500;
+
+   String name = "java";
 
 }
 
