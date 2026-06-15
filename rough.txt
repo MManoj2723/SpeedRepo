@@ -12,3 +12,6 @@ public void m1(){
     int double =200d;
 
 }
+String name ="java";
+
+}
