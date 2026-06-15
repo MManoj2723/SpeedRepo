@@ -5,6 +5,11 @@ Practicing Git Commands
 
 public void main{
 
+
+public void fetchAllUsers(){
+ //fetching from db;
+}
+
 public void m1(){
         sout("How are you");
 }
